@@ -1,0 +1,33 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #232323;}
+.square{
+    width: 30%;
+    padding-top: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 24px;}
+#container{
+    max-width:600px;
+    height: 400px;
+    margin:auto;}
+#top{
+    text-align: center;
+    padding-top: 20px;
+    height: 100px;
+    color: rgb(232, 219, 233);
+    font-size: 60px;}
+span{
+    color : white;}
+#top{
+    background-color: rgb(100, 171, 253)}
+#stripe{
+    height: 30px;
+    font-size: 24px;
+    text-align: center;
+    background-color: #f1f1f1;}
+#result,#score,#lives{
+    color: rgb(139, 116, 141);
+}
